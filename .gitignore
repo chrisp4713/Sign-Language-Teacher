@@ -1,0 +1,10 @@
+node_modules/
+dist/
+__pycache__/
+.venv/
+*.pyc
+.env
+backend/data/raw/
+backend/data/*.csv
+backend/models/*.joblib
+backend/models/*.task
